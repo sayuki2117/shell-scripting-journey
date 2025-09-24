@@ -21,3 +21,5 @@
 >No spaces around the = (e.g., VARIABLE_NAME = value will cause an error).
 Variable names are case-sensitive (e.g., USER and user are different).
 Use uppercase (e.g., USERNAME) by convention for user-defined variables, though lowercase is fine.
+
+![alt text](image.png)
